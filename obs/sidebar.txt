@@ -1,11 +1,33 @@
 
 ----
 ~~NOCACHE~~
-**[[ko:obs|Open Bible Stories]]**
+**Door43**
 
-{{page>ko:obs:stories}}
+  * [[ko:home|Door43 (ko)]]
 
+**Resources**
+
+  * [[ko:obs|Open Bible Stories (ko)]]
+
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ko|d43-ko repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ko/archive/master.zip|d43-ko.zip]]
+
+**Recent Changes**
+{{changes>ns = ko}}
 
 **Latest Status**
 {{page>en:uwadmin:ko:obs:status}}
 
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ko|Ethnologue data]]
+
+**Resources**
+
+  * [[ko:obs|Open Bible Stories (ko)]]
+
+**Latest OBS Status**
+{{page>en:uwadmin:ko:obs:status}}
