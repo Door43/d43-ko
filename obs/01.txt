@@ -1,131 +1,79 @@
 ====== 1. The Creation ======
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?direct&}}
 
 This is how the beginning of everything happened. God created the universe and everything in it in six days. After God created the earth it was dark and empty, and nothing had been formed in it. But God's Spirit was there over the water.
 
-이것은 모든 것이 어떻게 시작되었는지를 말하고 있습니다. 
+[이것은 모든 것이 어떻게 시작되었는지를 말하고 있습니다.]-
 
+모든것의 시작은 이렇게 시작이 되었습니다. 하나님께서 우주에 속한 모든것을 6일 동안 창조하셨습니다. 하나님께서 지구를 창조하셨는데 (주변은) 어둡고 공허했고 아무것도 형체를 가추지 않았습니다. 그러나 하나님의 영은 물위에 계셨습니다.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-02.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-02.jpg?direct&}}
 
 Then God said, "Let there be light!" And there was light. God saw that the light was good and called it "day." He separated it from the darkness, which he called "night." God created the light on the first day of creation.
 
+그후 하나님께서 말씀하시기를, "빛이있게하라!" 하셨습니다. 그리고 빛이 있었습니다. 하나님이 보시기에 빛이 좋았고 '낮' 이라고 불렀습니다. 하나님은 이것을 어두움으로 부터 분리를 하셨는데 이것을 '밤' 이라고 불렀습니다. 하나님은 빛을 창세의 첫째날에 창조하셨습니다.
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg?direct&}}
 
 On the second day of creation, God spoke and created the sky above the earth. He made the sky by separating the water above from the water below.
 
+창세의 둘쨋날에 하나님은 말씀하셨고/말씀으로 땅위의 하늘을 창조하셨습니다. 하나님은 위의 물을 아래의 물로 부터 분하므로 하늘을 만드셨습니다.
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-04.jpg}}
-
+ {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-04.jpg?direct&}}
 
 On the third day, God spoke and separated the water from the dry land. He called the dry land "earth," and he called the water "seas." God saw that what he had created was good.
 
+세쨋날 하나님은 말씀하셨고/말씀으로 물을 마른 땅으로 부터 분리을 하셨습니다. 하나님은 마른 땅을 "육지"라고 불렀고 물을 "바다" 라고 불렀습니다. 하나님께서 보시기에 그가 만드신 것들이 좋았습니다.
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-05.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-05.jpg?direct&}}
 
 Then God said, "Let the earth produce all kinds of trees and plants." And that is what happened. God saw that what he had created was good.
 
+그리고 하나님께서 이렇게 말씀하셨습니다, "육지가 모은 나무와 풀들을 생산하도록 하자." 그리고 그대로 이루어졌습니다. 하나님이 보시기에 그가 만든 모든것이 좋았습니다.
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-06.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-06.jpg?direct&}}
 
 On the fourth day of creation, God spoke and made the sun, the moon, and the stars. God made them to give light to the earth and to mark day and night, seasons and years. God saw that what he had created was good.
 
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-07.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-07.jpg?direct&}}
 
 On the fifth day, God spoke and made everything that swims in the water and all the birds. God saw that it was good, and he blessed them.
 
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-08.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-08.jpg?direct&}}
 
 On the sixth day of creation, God said, "Let there be all kinds of land animals!" And it happened just like God said. Some were farm animals, some crawled on the ground, and some were wild. And God saw that it was good.
 
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-09.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-09.jpg?direct&}}
 
 Then God said, "Let us make human beings in our image to be like us. They will have authority over the earth and all the animals."
 
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-10.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-10.jpg?direct&}}
 
 So God took some dirt, formed it into a man, and breathed life into him. This man's name was Adam. God planted a garden where Adam could live, and put him there to care for it.
 
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-11.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-11.jpg?direct&}}
 
 In the middle of the garden, God planted two special trees—the tree of life and the tree of the knowledge of good and evil. God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of good and evil. If he ate from this tree, he would die.
 
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-12.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-12.jpg?direct&}}
 
 Then God said, "It is not good for man to be alone." But none of the animals could be Adam's helper.
 
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-13.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-13.jpg?direct&}}
 
 So God made Adam fall into a deep sleep. Then God took one of Adam's ribs and made it into a woman and brought her to him.
 
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-14.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-14.jpg?direct&}}
 
 When Adam saw her, he said, "At last! This one is like me! Let her be called 'Woman,' for she was made from Man." This is why a man leaves his father and mother and becomes one with his wife.
 
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-15.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-15.jpg?direct&}}
 
 God made man and woman in his own image. He blessed them and told them, "Have many children and grandchildren and fill the earth!" And God saw that everything he had made was very good, and he was very pleased with all of it. This all happened on the sixth day of creation.
 
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-16.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-16.jpg?direct&}}
 
 When the seventh day came, God had finished his work. So God rested from all he had been doing. He blessed the seventh day and made it holy, because on this day he rested from his work. This is how God created the universe and everything in it.
 
 //A Bible story from: Genesis 1-2//
-
-
